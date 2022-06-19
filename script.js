@@ -22,42 +22,65 @@
 
 // -------------------------------->  2º Atividade   <--------------------------------
 
-let idade = 18;
+// let idade = 18;
 
-if(idade >= 18){
-    console.log("Você é maior de idade");
-}else{
-    console.log("você é menor de idade,infelizmente")
-}
+// if(idade >= 18){
+//     console.log("Você é maior de idade");
+// }else{
+//     console.log("você é menor de idade,infelizmente")
+// }
 
-let human = false;
+// let human = false;
 
-if(idade >= 18 && human === true){
-    console.log("Você é humano");
-}else{
-    console.log("você é de outro planeta")
-}
+// if(idade >= 18 && human === true){
+//     console.log("Você é humano");
+// }else{
+//     console.log("você é de outro planeta")
+// }
 
-let aniversario = "fevereiro";
+// let aniversario = "fevereiro";
 
-if(aniversario === "janeiro" || aniversario === "dezembro"){
-    console.log("Parabéns para você");
-}else{
-    console.log("Só ano que vem seu aniversário");
-}
+// if(aniversario === "janeiro" || aniversario === "dezembro"){
+//     console.log("Parabéns para você");
+// }else{
+//     console.log("Só ano que vem seu aniversário");
+// }
 
-let nome = "Rosana";
+// let nome = "Rosana";
 
-if(nome[0] === "R"){
-    console.log("O seu nome é bonito")
-}else{
-    console.log("Seu nome não é tão incomum")
-}
+// if(nome[0] === "R"){
+//     console.log("O seu nome é bonito")
+// }else{
+//     console.log("Seu nome não é tão incomum")
+// }
 
-let sobrenome = "Amorin";
+// let sobrenome = "Amorin";
 
-if(sobrenome[0] === "E" || sobrenome.length >= 6){
-    console.log("Seu sobrenome é bonito")
-}else{
-    console.log("O seu sobrenome é comum")
-}
+// if(sobrenome[0] === "E" || sobrenome.length >= 6){
+//     console.log("Seu sobrenome é bonito")
+// }else{
+//     console.log("O seu sobrenome é comum")
+// }
+
+//-------------------------------->  3º Atividade   <--------------------------------
+
+// for(let number = 1; number < 10; number++){
+//     console.log(number);
+// }
+
+// let numero = 0;
+
+// while(numero < 10){
+//     console.log(numero)
+//     numero++;
+// }
+
+// for(let n = 1; n < 100; n += 2){
+//     console.log(n)
+// }
+
+// let count = 0;
+// while(count <= 100){
+//     console.log(count)
+//     count += 2;
+// }
