@@ -84,3 +84,35 @@
 //     console.log(count)
 //     count += 2;
 // }
+
+//-------------------------------->  4º Atividade   <--------------------------------
+
+// function testando(){
+//     console.log("Olá mundo")
+// }
+// testando()
+
+// function nome(nome){
+//     console.log(`Seja bem vindo(a), ${nome}`)
+// }
+
+// nome("leonardo")
+
+// function pessoa(nome,idade,estiloMusical){
+//     console.log(`Olá seja bem-vindo ${nome},sua idade é ${idade} anos,seu gosto musical de ${estiloMusical} é muito bom.`)
+// }
+
+// pessoa("leonardo",26,"rock")
+
+// function preferencia(filme,musica){
+//     console.log(`Meu filme favorito é ${filme}, e minha música favorita é ${musica}`)
+// }
+
+// preferencia("Interestelar", "Whatever it takes")
+
+
+// function calculo(x){
+//     return x * 3
+// }
+
+// console.log(calculo(2))
